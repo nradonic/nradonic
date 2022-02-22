@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I'm interested in... ML/AI
+- 🌱 I’m currently learning ... Mac programming AppKit
+- 📫 How to reach me: ... big.rad@gmail.com
 
 <!--
 **nradonic/nradonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
